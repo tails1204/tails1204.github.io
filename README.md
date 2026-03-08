@@ -1,12 +1,13 @@
-# Добро пожаловать на мой сайт! 👋
+# Hey there! 👋
 
-Привет! Я **tails1204** — разработчик, увлеченный созданием интересных проектов.
+My name is **Cap** (nickname tais1204) — Undertale fan-game developer, artist, spriter,  composer, coder (GML and litlle bit Python) and translator to Russian Language (да, я русский)
 
-## 📌 О мне
+## 📌 More about me
 
-- 🚀 Изучаю и применяю новые технологии
-- 💻 Пишу код и создаю проекты на GitHub
-- 📚 Постоянно учусь и совершенствуюсь
+- Age: 15
+- Funny guy
+- Likes Undertale and Deltarune
+- Country: Russia
 
 ## 🛠️ Технологии
 
